@@ -1,16 +1,67 @@
-## Hi there 👋
+<pre>
+██╗    ██╗██╗   ██╗████████╗████████╗██╗ ██████╗██╗  ██╗ █████╗ ██╗
+██║    ██║██║   ██║╚══██╔══╝╚══██╔══╝██║██╔════╝██║  ██║██╔══██╗██║
+██║ █╗ ██║██║   ██║   ██║      ██║   ██║██║     ███████║███████║██║
+██║███╗██║██║   ██║   ██║      ██║   ██║██║     ██╔══██║██╔══██║██║
+╚███╔███╔╝╚██████╔╝   ██║      ██║   ██║╚██████╗██║  ██║██║  ██║██║
+ ╚══╝╚══╝  ╚═════╝    ╚═╝      ╚═╝   ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+</pre>
 
-<!--
-**WuttichaiSukantho/WuttichaiSukantho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 Backend Engineer | TypeScript Architect
 
-Here are some ideas to get you started:
+Building **production-grade RESTful APIs** with performance, scalability, and clean architecture in mind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Tech Stack
+
+🟢 Bun  
+🦊 Elysia  
+🔷 TypeScript (ESNext)  
+🐘 PostgreSQL  
+🔺 Prisma ORM  
+🔥 Redis  
+🐳 Docker  
+
+---
+
+## 🏗 Architecture & Engineering
+
+- Island Structure
+- Class Group Object Pattern
+- OOP-driven modular design
+- Domain separation
+- Clean & maintainable codebase
+
+---
+
+## 🛡 Production Mindset
+
+- 🔐 JWT Authentication (Register / Login / Refresh)
+- 📄 OpenAPI / Swagger
+- ⚡ Rate-limit + Compression
+- 🛡 Secure middleware stack
+- 🌍 Environment validation (Zod)
+- 🚀 Containerized deployment
+
+---
+
+## 📈 Philosophy
+
+> Performance is a feature ⚡  
+> Security is a baseline 🔐  
+> Scalability is intentional 📈  
+> Clean code is non-negotiable 🧠  
+
+---
+
+## 🌌 Current Focus
+
+- Designing scalable backend systems
+- Optimizing performance at scale
+- Building secure and maintainable APIs
+- Shipping production-ready architecture
+
+---
+
+### ⚡ “Built to Scale. Engineered to Last.”
