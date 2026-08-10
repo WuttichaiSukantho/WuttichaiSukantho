@@ -206,15 +206,15 @@ The portfolio identifies my current professional role at **M BIZ CONSULTANT CO.,
 
 </div>
 
-| Area | Tools and technologies |
-| --- | --- |
-| Web development | TypeScript · React · Vite · Firebase |
-| Mobile development | Flutter |
-| Backend and APIs | Node.js · Bun · Elysia · Express.js · REST API |
-| Languages | TypeScript · JavaScript |
-| Data and messaging | PostgreSQL · MongoDB · Prisma ORM · Redis · WebSocket |
-| VoIP and telephony | SIP · OpenSIPS · Asterisk · FreePBX |
-| Tools and delivery | GitHub · CI/CD · Docker · containerized workflows |
+| Area                  | Tools and technologies                                  |
+| --------------------- | ------------------------------------------------------- |
+| Web development       | TypeScript · React · Vite · Firebase                    |
+| Mobile development    | Flutter                                                 |
+| Backend and APIs      | Node.js · Bun · Elysia · Express.js · REST API          |
+| Languages             | TypeScript · JavaScript                                 |
+| Data and messaging    | PostgreSQL · MongoDB · Prisma ORM · Redis · WebSocket   |
+| VoIP and telephony    | SIP · OpenSIPS · Asterisk · FreePBX                     |
+| Tools and delivery    | GitHub · CI/CD · Docker · containerized workflows       |
 | Engineering practices | Modular design · domain separation · clean architecture |
 
 ## 🗺️ Developer Profile
@@ -256,11 +256,11 @@ I value small, well-defined modules, explicit boundaries between domains, and de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WuttichaiSukantho&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Wuttichai Sukantho's GitHub statistics" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WuttichaiSukantho&theme=github_dark" alt="Wuttichai Sukantho's GitHub statistics" width="100%" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WuttichaiSukantho&layout=compact&hide_border=true&theme=transparent" alt="Wuttichai Sukantho's top languages" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WuttichaiSukantho&theme=github_dark" alt="Wuttichai Sukantho's top languages" width="100%" />
 
 <br />
 
@@ -269,10 +269,6 @@ I value small, well-defined modules, explicit boundaries between domains, and de
 <br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WuttichaiSukantho&theme=github-compact&hide_border=true&area=true" alt="Wuttichai Sukantho's contribution graph" width="100%" />
-
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=WuttichaiSukantho&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Wuttichai Sukantho's GitHub trophies" width="100%" />
 
 </div>
 
