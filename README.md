@@ -3,7 +3,6 @@
 <!-- markdownlint-disable MD033 -->
 
 <div align="center">
-
 <pre>
 ██╗    ██╗██╗   ██╗████████╗████████╗██╗ ██████╗██╗  ██╗ █████╗ ██╗
 ██║    ██║██║   ██║╚══██╔══╝╚══██╔══╝██║██╔════╝██║  ██║██╔══██╗██║
@@ -12,279 +11,224 @@
 ╚███╔███╔╝╚██████╔╝   ██║      ██║   ██║╚██████╗██║  ██║██║  ██║██║
  ╚══╝╚══╝  ╚═════╝    ╚═╝      ╚═╝   ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 </pre>
-
-Software Developer · Backend Engineer
-
-📍 Hat Yai, Songkhla, Thailand
-
-<img src="https://img.shields.io/badge/Timezone-Asia%2FBangkok_(UTC%2B7)-2563EB?style=flat-square&logo=clockify&logoColor=white" alt="Thailand timezone UTC plus 7" />
-
-Designing maintainable backend systems with a focus on performance, security, and clear architecture.
-
-<p>
-  <a href="https://github.com/WuttichaiSukantho">GitHub</a>
-  ·
-  <a href="https://wuttichai-web-41c80.firebaseapp.com/">Live Demo</a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Elysia-000000?style=flat-square&logo=elysia&logoColor=white" alt="Elysia" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3178C6&center=true&vCenter=true&width=650&lines=Backend+Engineer;TypeScript+API+Developer;Clean+Architecture+Enthusiast;Building+reliable+systems" alt="Animated introduction" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1600&color=64748B&center=true&vCenter=true&width=650&lines=Work+timezone%3A+Asia%2FBangkok+%28UTC%2B7%29;Thailand+time+%C2%B7+Hat+Yai%2C+Songkhla;Available+for+technical+collaboration" alt="Animated Thailand timezone display" />
-
 </div>
 
-<div align="center">
+<img src="./assets/wuttichai-sukantho.png" alt="Full-body portrait of Wuttichai Sukantho" align="right" width="180" />
 
-<a href="#about">About</a> ·
-<a href="#professional-experience">Experience</a> ·
-<a href="#education">Education</a> ·
-<a href="#portfolio">Portfolio</a> ·
-<a href="#technology-areas">Stack</a> ·
-<a href="#github-activity">Activity</a> ·
-<a href="#connect">Connect</a>
+**Software Developer · Backend Engineer**<br />
+Hat Yai, Songkhla, Thailand · UTC+7
 
-</div>
+I build backend services, web applications, and communication systems with TypeScript. My focus is clear architecture, reliable APIs, and software that is straightforward to maintain and operate.
 
-## 👋 About
+Currently, I work as a **Software Developer at M Biz Consultant Co., Ltd.**, combining web and mobile development with VoIP infrastructure and real-time communication.
 
-I focus on backend services and REST APIs with TypeScript and modern web tooling. My interests include modular design, domain separation, reliable authentication, and the operational details that help systems remain understandable as they grow.
-
-This profile repository is a concise overview of my engineering focus. Project-specific implementation details belong in the repositories where the code lives.
-
-<table width="100%">
-  <tr>
-    <td align="center"><strong>👨‍💻 Role</strong><br />Software Developer</td>
-    <td align="center"><strong>🏢 Current</strong><br />M Biz Consultant</td>
-    <td align="center"><strong>⚡ Core</strong><br />TypeScript · React</td>
-    <td align="center"><strong>🌐 Portfolio</strong><br /><a href="https://wuttichai-web-41c80.firebaseapp.com/">View live</a></td>
-  </tr>
-</table>
-
-## 📌 Current Direction
-
-- Building scalable and maintainable backend systems
-- Improving performance and operational reliability
-- Strengthening secure API design
-- Shipping software with a production mindset
-
-## 🧭 Engineering Focus
-
-- Production-oriented REST API design
-- Modular, object-oriented architecture and domain separation
-- Authentication flows using JWT, including registration, login, and refresh tokens
-- OpenAPI-driven API documentation
-- Performance work such as rate limiting, compression, and caching
-- Environment validation and secure middleware design
-- Containerized development and deployment workflows
-
-## 🧑‍💻 Professional Experience
-
-```mermaid
-timeline
-    title Career Timeline
-    2019 : Summer Intern · Isuzu Hatyai Co., Ltd.
-    2023 : Developer Intern · Stream South Technology
-         : TypeScript · React · AR web applications
-    2024 : Software Developer · ADot
-    2025 : Software Developer · M Biz Consultant Co., Ltd.
-         : TypeScript · React · Flutter · VoIP systems
-```
-
-<table width="100%">
-  <tr>
-    <td width="25%"><strong>Jan 2025 – Present</strong><br />Full-time<br />Thailand · On-site</td>
-    <td><strong>Software Developer</strong><br /><strong>M Biz Consultant Co., Ltd.</strong><br /><br />Developing web applications with TypeScript and React, mobile applications with Flutter, and VoIP infrastructure using OpenSIPS, Asterisk, and FreePBX. Work includes WebSocket communication, Firebase Push Notifications, SIP-based communication solutions, dynamic registration, call routing, and server-performance optimization.</td>
-  </tr>
-  <tr>
-    <td><strong>May 2024 – Dec 2024</strong><br />Full-time<br />Thailand · On-site</td>
-    <td><strong>Software Developer</strong><br /><strong>ADot</strong></td>
-  </tr>
-  <tr>
-    <td><strong>Jul 2023 – Oct 2023</strong><br />Internship<br />Hat Yai, Songkhla, Thailand</td>
-    <td><strong>Developer</strong><br /><strong>Stream South Technology</strong><br /><br />Worked on TypeScript and React web development, including AR (Augmented Reality) web applications for the <a href="https://nimitr.art/">nimitr.art</a> project.</td>
-  </tr>
-  <tr>
-    <td><strong>Mar 2019 – May 2019</strong><br />Internship<br />Hat Yai District, Songkhla, Thailand</td>
-    <td><strong>Summer Intern</strong><br /><strong>Isuzu Hatyai Co., Ltd.</strong></td>
-  </tr>
-</table>
-
-## 🎓 Education
-
-<table width="100%">
-  <tr>
-    <td width="25%"><strong>Jul 2020 – May 2023</strong><br />Grade: 3.68</td>
-    <td><strong>Bachelor of Business Administration</strong><br />Business Information System<br /><strong>Rajamangala University of Technology Srivijaya</strong></td>
-  </tr>
-  <tr>
-    <td><strong>2016 – 2020</strong></td>
-    <td><strong>Vocational Certificate</strong><br />Business Computer<br /><strong>Amnuaywit Hatyai Technology College</strong></td>
-  </tr>
-  <tr>
-    <td><strong>2014 – 2016</strong></td>
-    <td><strong>Junior High School</strong><br />Science-Math Ability<br /><strong>Hatyai Wittayalai Somboonkulkanya School</strong></td>
-  </tr>
-  <tr>
-    <td><strong>2005 – 2014</strong></td>
-    <td><strong>Sahasart Wittayakarn School</strong></td>
-  </tr>
-</table>
-
-## 🚀 Portfolio
-
-### Personal Portfolio
-
-Explore my interactive portfolio: [wuttichai-web-41c80.firebaseapp.com](https://wuttichai-web-41c80.firebaseapp.com/)
-
-The portfolio presents my background as a software developer, with a focus on backend development, system architecture, API engineering, education, and technical skills.
-
-#### ✨ Portfolio Highlights
-
-- Interactive sections for Home, Playground, About, Story, Experience, Education, and Contact
-- Responsive sticky navigation with desktop and mobile layouts
-- English/Thai language switcher and theme controls
-- Animated page-load and section transitions with interactive hover states
-- Education and career timeline, including software engineering and information technology milestones
-- Public links to GitHub, LinkedIn, JobsDB, and other social profiles
-
-#### 🧱 Portfolio Stack
-
-The portfolio is built with **React**, **Vite**, **TypeScript**, and **Firebase**, with a dark visual system, responsive layouts, decorative motion, and structured metadata for sharing and search engines.
-
-#### 💼 Professional Profile
-
-The portfolio identifies my current professional role at **M BIZ CONSULTANT CO., LTD.** and documents my development path from foundational education through vocational computer information studies and university-level information technology and software engineering.
-
-## 🧰 Technology Areas
-
-<div align="center">
+[Portfolio](https://wuttichai-web-41c80.firebaseapp.com/) · [LinkedIn](https://www.linkedin.com/in/wuttichai-sukantho-0939b1241/) · [GitHub](https://github.com/WuttichaiSukantho)
 
 <p>
-  <strong>Web & API</strong><br />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge" alt="REST API" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&amp;logo=bun&amp;logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
 </p>
 
-<p>
-  <strong>Backend & Runtime</strong><br />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Elysia-000000?style=for-the-badge" alt="Elysia" />
-  <img src="https://img.shields.io/badge/WebSocket-0F172A?style=for-the-badge" alt="WebSocket" />
-</p>
+<br clear="both" />
 
-<p>
-  <strong>Data & Cloud</strong><br />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+<img src="./assets/backend-3d.svg" alt="A rotating 3D wireframe cube around an API core, with a blinking terminal cursor" width="100%" />
 
-<p>
-  <strong>Mobile, VoIP & Delivery</strong><br />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/SIP-2563EB?style=for-the-badge" alt="SIP" />
-  <img src="https://img.shields.io/badge/Asterisk-F47C20?style=for-the-badge&logo=asterisk&logoColor=white" alt="Asterisk" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub CI/CD" />
-</p>
+[Focus](#engineering-focus) · [Portfolio](#selected-work) · [Stack](#technical-toolkit) · [Experience](#experience) · [Education](#education) · [Activity](#github-activity)
 
-</div>
+## Engineering focus
 
-| Area                  | Tools and technologies                                  |
-| --------------------- | ------------------------------------------------------- |
-| Web development       | TypeScript · React · Vite · Firebase                    |
-| Mobile development    | Flutter                                                 |
-| Backend and APIs      | Node.js · Bun · Elysia · Express.js · REST API          |
-| Languages             | TypeScript · JavaScript                                 |
-| Data and messaging    | PostgreSQL · MongoDB · Prisma ORM · Redis · WebSocket   |
-| VoIP and telephony    | SIP · OpenSIPS · Asterisk · FreePBX                     |
-| Tools and delivery    | GitHub · CI/CD · Docker · containerized workflows       |
-| Engineering practices | Modular design · domain separation · clean architecture |
+- **Backend and APIs:** TypeScript services, REST API design, and OpenAPI documentation.
+- **Architecture:** Small modules, clear domain boundaries, and testable business logic.
+- **Security and reliability:** JWT authentication, environment validation, rate limiting, and caching.
+- **Real-time communication:** WebSocket applications, SIP registration, call routing, and VoIP infrastructure.
+- **Delivery:** Containerized development and deployment with Docker and GitHub CI/CD.
 
-## 🗺️ Developer Profile
+<img src="./assets/engineering-flow.svg" alt="Animated request flow from a TypeScript client through REST and WebSocket APIs to PostgreSQL and Redis" width="100%" />
 
-```mermaid
-flowchart LR
-    A[Software Developer] --> B[Web Applications]
-    A --> C[Mobile Applications]
-    A --> D[VoIP & SIP Systems]
-    B --> E[React · TypeScript · REST API]
-    C --> F[Flutter · Firebase]
-    D --> G[OpenSIPS · Asterisk · FreePBX]
-    E --> H[Scalable Engineering]
-    F --> H
-    G --> H
-```
+### Engineering practices
 
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td align="center" width="25%"><strong>🌐 Web</strong><br />React · TypeScript<br />REST API</td>
-    <td align="center" width="25%"><strong>📱 Mobile</strong><br />Flutter<br />Firebase</td>
-    <td align="center" width="25%"><strong>☎️ VoIP</strong><br />SIP · OpenSIPS<br />Asterisk</td>
-    <td align="center" width="25%"><strong>⚙️ Delivery</strong><br />GitHub · CI/CD<br />Docker</td>
-  </tr>
-</table>
-
-</div>
+| Focus | What I work on |
+| --- | --- |
+| API design | REST endpoints and OpenAPI documentation that make service interfaces clear. |
+| Authentication | Registration, login, and refresh-token flows using JWT. |
+| Modular architecture | Domain separation, object-oriented design, and small modules with explicit responsibilities. |
+| Performance | Caching, compression, rate limiting, and server-performance optimization. |
+| Configuration and security | Environment validation and secure middleware design. |
+| Communication systems | WebSocket connections, SIP registration, call routing, and push notifications. |
+| Operations | Containerized development and deployment workflows. |
 
 <details>
-<summary>🏗️ Architectural principles</summary>
+<summary>Architectural principles</summary>
 
-I value small, well-defined modules, explicit boundaries between domains, and designs that keep business logic testable and independent from infrastructure concerns. I use patterns such as island-style modular organization and class-grouped objects when they improve cohesion and maintainability.
+I value small, well-defined modules and explicit boundaries between domains. I aim to keep business logic testable and independent of infrastructure concerns, using object-oriented patterns and class-grouped responsibilities where they improve cohesion and maintainability.
+
+My current direction is to strengthen secure API design, improve performance and operational reliability, and build backend systems that remain understandable as they grow.
 
 </details>
 
-## 📊 GitHub Activity
+## Selected work
 
-<div align="center">
+### [Personal portfolio](https://wuttichai-web-41c80.firebaseapp.com/)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WuttichaiSukantho&theme=github_dark" alt="Wuttichai Sukantho's GitHub statistics" width="100%" />
+An interactive overview of my work, technical background, and career, built with **React, Vite, TypeScript, and Firebase**.
 
-<br />
+- Responsive layouts for desktop and mobile.
+- English and Thai language options, with theme controls.
+- Home, Playground, About, Story, Experience, Education, and Contact sections.
+- Sticky navigation and layouts adapted for desktop and mobile use.
+- Animated page-load and section transitions, with interactive hover states.
+- Career and education timelines, professional profile links, and structured sharing metadata.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WuttichaiSukantho&theme=github_dark" alt="Wuttichai Sukantho's top languages" width="100%" />
+[Explore the portfolio →](https://wuttichai-web-41c80.firebaseapp.com/)
 
-<br />
+### Augmented reality web development
 
-<img src="https://streak-stats.demolab.com?user=WuttichaiSukantho&theme=transparent&hide_border=true" alt="Wuttichai Sukantho's GitHub streak" width="100%" />
+During my internship at **Stream South Technology**, I worked on TypeScript and React web applications, including augmented reality experiences for the **nimitr.art** project.
 
-<br />
+[Visit nimitr.art →](https://nimitr.art/)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WuttichaiSukantho&theme=github-compact&hide_border=true&area=true" alt="Wuttichai Sukantho's contribution graph" width="100%" />
+## Technical toolkit
 
-</div>
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript |
+| Backend | Bun, Node.js, Elysia, Express.js, REST APIs, OpenAPI |
+| Web | React, Vite |
+| Mobile | Flutter, Firebase push notifications |
+| Data | PostgreSQL, MongoDB, Redis, Prisma ORM |
+| Real-time and telephony | WebSocket, SIP, OpenSIPS, Asterisk, FreePBX |
+| Cloud and delivery | Firebase, Docker, GitHub CI/CD |
 
-## 🤝 Connect
+### Engineering map
 
-Explore my work and professional background through:
+How the technologies in my toolkit connect across the work I do.
 
-- [Portfolio](https://wuttichai-web-41c80.firebaseapp.com/)
-- [GitHub](https://github.com/WuttichaiSukantho)
-- [LinkedIn](https://www.linkedin.com/in/wuttichai-sukantho-0939b1241/)
-- [JobsDB profile](https://th.jobsdb.com/profiles/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%91-2vytXlpx0N)
+<!-- mermaid:id=engineering_map -->
+```mermaid
+flowchart LR
+  accTitle: Engineering map
+  accDescr: A map of related engineering skills. TypeScript connects web and API work. API work connects mobile, real-time communication, data, and delivery. Real-time communication connects VoIP tooling.
+  ts["TypeScript"]
+  class ts core
+  web["Web&#58; React / Vite"]
+  class web area
+  backend["APIs&#58; Bun / Node.js / Elysia"]
+  class backend area
+  mobile["Mobile&#58; Flutter / Firebase"]
+  class mobile area
+  realtime["Real-time&#58; WebSocket / SIP"]
+  class realtime area
+  voice["VoIP&#58; OpenSIPS / Asterisk / FreePBX"]
+  class voice area
+  data["Data&#58; PostgreSQL / Redis / Prisma"]
+  class data area
+  delivery["Delivery&#58; Docker / GitHub CI"]
+  class delivery area
+  ts --- web
+  ts --- backend
+  backend ---|REST| mobile
+  backend --- realtime
+  realtime --- voice
+  backend --- data
+  backend --- delivery
+classDef core fill:#3178c6,stroke:#79c0ff,color:#ffffff
+classDef area fill:#122032,stroke:#315b76,color:#e6edf3
+```
 
-<div align="center">
+## Experience
 
-<img src="https://komarev.com/ghpvc/?username=WuttichaiSukantho&style=flat-square&color=3178C6" alt="Profile views" />
+<!-- mermaid:id=career_timeline -->
+```mermaid
+timeline
+  accTitle: Career timeline
+  accDescr: Career milestones&#58; Isuzu Hatyai summer internship in 2019, Stream South Technology developer internship in 2023, software developer at ADot in 2024, and software developer at M Biz Consultant from 2025.
+  section Career timeline
+    2019 : Summer Intern - Isuzu Hatyai
+    2023 : Developer Intern - Stream South Technology &#40;TypeScript / React / AR web&#41;
+    2024 : Software Developer - ADot
+    2025 : Software Developer - M Biz Consultant &#40;TypeScript / React / Flutter / VoIP&#41;
+```
 
-_Performance is a feature. Security is a baseline. Scalability is intentional._
+### Software Developer · M Biz Consultant Co., Ltd.
 
-</div>
+**January 2025 – Present** · Full-time · On-site · Thailand
+
+- **Web:** Develop applications with TypeScript and React.
+- **Mobile:** Build applications with Flutter and integrate Firebase push notifications.
+- **Real-time systems:** Implement WebSocket communication between applications and services.
+- **Telephony:** Work with OpenSIPS, Asterisk, and FreePBX on SIP communication, dynamic registration, and call routing.
+- **Performance:** Optimize server performance for communication infrastructure.
+
+### Software Developer · ADot
+
+**May 2024 – December 2024** · Full-time · On-site · Thailand
+
+### Developer Intern · Stream South Technology
+
+**July 2023 – October 2023** · Hat Yai, Thailand
+
+- Developed TypeScript and React web applications, including augmented reality experiences for [nimitr.art](https://nimitr.art/).
+
+<details>
+<summary>Earlier experience</summary>
+
+**Summer Intern · Isuzu Hatyai Co., Ltd.**<br />
+March 2019 – May 2019 · Hat Yai, Thailand
+
+</details>
+
+## Education
+
+**Bachelor of Business Administration · Business Information System**<br />
+Rajamangala University of Technology Srivijaya<br />
+July 2020 – May 2023 · Grade: **3.68**
+
+**Vocational Certificate · Business Computer**<br />
+Amnuaywit Hatyai Technology College · 2016 – 2020
+
+<details>
+<summary>Earlier education</summary>
+
+| Period | School | Program |
+| --- | --- | --- |
+| 2014 – 2016 | Hatyai Wittayalai Somboonkulkanya School | Junior High School · Science-Math Ability |
+| 2005 – 2014 | Sahasart Wittayakarn School | — |
+
+</details>
+
+## GitHub activity
+
+<!-- Provider documentation: https://github.com/vn7n24fzkq/github-profile-summary-cards#profile-details-card -->
+<a href="https://github.com/WuttichaiSukantho?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WuttichaiSukantho&amp;theme=github_dark&amp;name=Wuttichai%20Sukantho" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WuttichaiSukantho&amp;theme=github&amp;name=Wuttichai%20Sukantho" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WuttichaiSukantho&amp;theme=github&amp;name=Wuttichai%20Sukantho" alt="Wuttichai Sukantho's GitHub contribution graph and activity summary" width="100%" />
+  </picture>
+</a>
+
+[View contributions on GitHub](https://github.com/WuttichaiSukantho?tab=overview)
+
+### Public activity statistics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WuttichaiSukantho&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WuttichaiSukantho&amp;theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WuttichaiSukantho&amp;theme=github" alt="GitHub statistics for Wuttichai Sukantho: stars, commits, pull requests, issues, and contributed repositories" width="360" />
+</picture>
+
+These statistics reflect activity visible to the card provider. Private work may not be represented.
+
+## Connect
+
+| Find me | Link |
+| --- | --- |
+| Work and background | [Personal portfolio](https://wuttichai-web-41c80.firebaseapp.com/) |
+| Professional network | [LinkedIn](https://www.linkedin.com/in/wuttichai-sukantho-0939b1241/) |
+| Repositories and activity | [GitHub](https://github.com/WuttichaiSukantho) |
+| Career profile | [JobsDB](https://th.jobsdb.com/profiles/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%B1%E0%B8%99%E0%B9%82%E0%B8%91-2vytXlpx0N) |
+
+Based in **Hat Yai, Songkhla, Thailand** · **Asia/Bangkok (UTC+7)**.
